@@ -1,0 +1,40 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dimension": 384,
+  "max_seq_length": 128,
+  "similarity_fn": "cosine",
+  "n_parameters": 117653760,
+  "num_hidden_layers": 12,
+  "hidden_size": 384,
+  "vocab_size": 250002,
+  "truncation_tests": [
+    {
+      "text_preview": "Texto curto para teste.",
+      "original_tokens": 8,
+      "truncated_tokens": 8,
+      "tokens_dropped": 0,
+      "truncated": false
+    },
+    {
+      "text_preview": "palavra palavra palavra palavra palavra ",
+      "original_tokens": 152,
+      "truncated_tokens": 128,
+      "tokens_dropped": 24,
+      "truncated": true
+    },
+    {
+      "text_preview": "palavra palavra palavra palavra palavra ",
+      "original_tokens": 302,
+      "truncated_tokens": 128,
+      "tokens_dropped": 174,
+      "truncated": true
+    },
+    {
+      "text_preview": "palavra palavra palavra palavra palavra ",
+      "original_tokens": 502,
+      "truncated_tokens": 128,
+      "tokens_dropped": 374,
+      "truncated": true
+    }
+  ]
+}

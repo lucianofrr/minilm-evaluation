@@ -1,0 +1,8 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "n_pairs": 50,
+  "spearman": 0.7839935320800405,
+  "pearson": 0.7768451213876637,
+  "mean_similarity": 0.3950802981853485,
+  "std_similarity": 0.2751799523830414
+}

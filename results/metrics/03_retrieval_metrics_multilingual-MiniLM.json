@@ -1,0 +1,10 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "n_queries": 20,
+  "n_docs": 30,
+  "recall@1": 0.6,
+  "recall@5": 0.925,
+  "recall@10": 0.975,
+  "mrr@10": 0.8433333333333334,
+  "ndcg@10": 0.8512652044227498
+}

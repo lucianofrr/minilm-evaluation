@@ -1,0 +1,7 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L12-v2",
+  "n_pairs": 10,
+  "mean_similarity": 0.9735263645648956,
+  "std_similarity": 0.0089977162218268,
+  "risk": "ALTO (Inseguro para RAG)"
+}
