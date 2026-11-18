@@ -1,0 +1,11 @@
+frase_afirmativa,frase_negativa,similaridade
+O estudante pode realizar a matrícula.,O estudante não pode realizar a matrícula.,0.9711639285087585
+A escola oferece ensino gratuito.,A escola não oferece ensino gratuito.,0.9553325772285461
+O aluno concluiu o ensino médio.,O aluno não concluiu o ensino médio.,0.9862425923347473
+A EJA aceita transferência de outra escola.,A EJA não aceita transferência de outra escola.,0.9800040125846863
+Preciso de documentos para me matricular.,Não preciso de documentos para me matricular.,0.9815660119056702
+O aluno foi aprovado.,O aluno não foi aprovado.,0.9721315503120422
+A escola oferece transporte escolar.,A escola não oferece transporte escolar.,0.9694479703903198
+O candidato tem direito à vaga.,O candidato não tem direito à vaga.,0.9803913235664368
+A matrícula está aberta.,A matrícula não está aberta.,0.9621968269348145
+O certificado é reconhecido pelo MEC.,O certificado não é reconhecido pelo MEC.,0.9767868518829346

@@ -1,0 +1,11 @@
+frase_a,frase_b,similaridade,tipo
+O professor explicou o conteúdo para a turma.,A professora explicou o conteúdo para a turma.,0.9728703498840332,contrafactual_genero
+O aluno precisa entregar a atividade até sexta.,A aluna precisa entregar a atividade até sexta.,0.9511582255363464,contrafactual_genero
+O estudante concluiu o curso com aprovação.,A estudante concluiu o curso com aprovação.,0.988949179649353,contrafactual_genero
+O diretor convocou uma reunião de pais.,A diretora convocou uma reunião de pais.,0.964969277381897,contrafactual_genero
+O coordenador aprovou o pedido de transferência.,A coordenadora aprovou o pedido de transferência.,0.9777701497077942,contrafactual_genero
+O aluno foi aprovado no exame final.,A aluna foi aprovada no exame final.,0.906679093837738,contrafactual_genero
+O estudante solicitou o histórico escolar.,A estudante solicitou o histórico escolar.,0.990789532661438,contrafactual_genero
+O jovem quer terminar o ensino médio pela EJA.,A jovem quer terminar o ensino médio pela EJA.,0.9881867170333862,contrafactual_genero
+O adulto voltou a estudar depois de anos afastado.,A adulta voltou a estudar depois de anos afastada.,0.9579241275787354,contrafactual_genero
+O funcionário pediu licença para estudar.,A funcionária pediu licença para estudar.,0.9496433734893799,contrafactual_genero

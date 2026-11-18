@@ -1,0 +1,101 @@
+query_id,query_text,rank,retrieved_doc_id,similarity_score,is_relevant
+q_01,O que é a Educação de Jovens e Adultos?,1,doc_01,0.768128514289856,True
+q_01,O que é a Educação de Jovens e Adultos?,2,doc_07,0.7025163173675537,True
+q_01,O que é a Educação de Jovens e Adultos?,3,doc_28,0.6366016864776611,False
+q_01,O que é a Educação de Jovens e Adultos?,4,doc_15,0.6314540505409241,False
+q_01,O que é a Educação de Jovens e Adultos?,5,doc_13,0.6185792684555054,False
+q_02,Como fazer matrícula na EJA?,1,doc_04,0.6245707273483276,True
+q_02,Como fazer matrícula na EJA?,2,doc_02,0.6045812368392944,True
+q_02,Como fazer matrícula na EJA?,3,doc_09,0.5366115570068359,False
+q_02,Como fazer matrícula na EJA?,4,doc_28,0.5280755758285522,False
+q_02,Como fazer matrícula na EJA?,5,doc_25,0.48648902773857117,False
+q_03,Quais documentos são necessários para se inscrever na EJA?,1,doc_03,0.576951265335083,False
+q_03,Quais documentos são necessários para se inscrever na EJA?,2,doc_27,0.5698494911193848,False
+q_03,Quais documentos são necessários para se inscrever na EJA?,3,doc_10,0.5681136846542358,False
+q_03,Quais documentos são necessários para se inscrever na EJA?,4,doc_25,0.5617097616195679,False
+q_03,Quais documentos são necessários para se inscrever na EJA?,5,doc_07,0.5483139157295227,False
+q_04,Como funciona a avaliação dos alunos na EJA?,1,doc_03,0.6042260527610779,True
+q_04,Como funciona a avaliação dos alunos na EJA?,2,doc_27,0.5296151638031006,False
+q_04,Como funciona a avaliação dos alunos na EJA?,3,doc_24,0.5258570909500122,False
+q_04,Como funciona a avaliação dos alunos na EJA?,4,doc_09,0.5242161154747009,False
+q_04,Como funciona a avaliação dos alunos na EJA?,5,doc_28,0.5152967572212219,False
+q_05,Quais são os horários das aulas da EJA?,1,doc_27,0.5410417318344116,False
+q_05,Quais são os horários das aulas da EJA?,2,doc_24,0.5400166511535645,False
+q_05,Quais são os horários das aulas da EJA?,3,doc_01,0.5183413028717041,False
+q_05,Quais são os horários das aulas da EJA?,4,doc_25,0.5162062644958496,False
+q_05,Quais são os horários das aulas da EJA?,5,doc_07,0.5135667324066162,False
+q_06,Qual é a legislação que regulamenta a EJA no Brasil?,1,doc_09,0.6081327199935913,False
+q_06,Qual é a legislação que regulamenta a EJA no Brasil?,2,doc_30,0.5611470937728882,False
+q_06,Qual é a legislação que regulamenta a EJA no Brasil?,3,doc_19,0.5317569971084595,False
+q_06,Qual é a legislação que regulamenta a EJA no Brasil?,4,doc_28,0.5228029489517212,False
+q_06,Qual é a legislação que regulamenta a EJA no Brasil?,5,doc_24,0.5024993419647217,False
+q_07,Quem pode estudar na EJA?,1,doc_25,0.5496532320976257,False
+q_07,Quem pode estudar na EJA?,2,doc_03,0.5367196798324585,False
+q_07,Quem pode estudar na EJA?,3,doc_01,0.5272231101989746,True
+q_07,Quem pode estudar na EJA?,4,doc_27,0.5270323753356934,False
+q_07,Quem pode estudar na EJA?,5,doc_29,0.5102408528327942,False
+q_08,A EJA pode ser feita a distância?,1,doc_08,0.5422598123550415,True
+q_08,A EJA pode ser feita a distância?,2,doc_24,0.4793678820133209,False
+q_08,A EJA pode ser feita a distância?,3,doc_22,0.4471617341041565,False
+q_08,A EJA pode ser feita a distância?,4,doc_09,0.444825142621994,False
+q_08,A EJA pode ser feita a distância?,5,doc_28,0.428606241941452,False
+q_09,Qual é a história da educação de adultos no Brasil?,1,doc_30,0.7048772573471069,False
+q_09,Qual é a história da educação de adultos no Brasil?,2,doc_28,0.6689268350601196,False
+q_09,Qual é a história da educação de adultos no Brasil?,3,doc_01,0.6359225511550903,False
+q_09,Qual é a história da educação de adultos no Brasil?,4,doc_07,0.599200427532196,False
+q_09,Qual é a história da educação de adultos no Brasil?,5,doc_09,0.5956031680107117,True
+q_10,Como obter certificado pela EJA ou ENCCEJA?,1,doc_10,0.7798486948013306,True
+q_10,Como obter certificado pela EJA ou ENCCEJA?,2,doc_25,0.6028498411178589,False
+q_10,Como obter certificado pela EJA ou ENCCEJA?,3,doc_03,0.5757557153701782,False
+q_10,Como obter certificado pela EJA ou ENCCEJA?,4,doc_07,0.559876024723053,False
+q_10,Como obter certificado pela EJA ou ENCCEJA?,5,doc_29,0.536758303642273,False
+q_11,Como fazer transferência entre escolas na EJA?,1,doc_11,0.7184807062149048,True
+q_11,Como fazer transferência entre escolas na EJA?,2,doc_21,0.6330300569534302,False
+q_11,Como fazer transferência entre escolas na EJA?,3,doc_02,0.601987361907959,False
+q_11,Como fazer transferência entre escolas na EJA?,4,doc_30,0.5975870490074158,False
+q_11,Como fazer transferência entre escolas na EJA?,5,doc_23,0.5770146250724792,False
+q_12,Qual é a frequência mínima exigida na EJA?,1,doc_12,0.5755977034568787,True
+q_12,Qual é a frequência mínima exigida na EJA?,2,doc_05,0.5272138118743896,False
+q_12,Qual é a frequência mínima exigida na EJA?,3,doc_07,0.4787105321884155,False
+q_12,Qual é a frequência mínima exigida na EJA?,4,doc_28,0.4732794165611267,False
+q_12,Qual é a frequência mínima exigida na EJA?,5,doc_20,0.4656311571598053,False
+q_13,Quais são os desafios enfrentados pela EJA no Brasil?,1,doc_30,0.5821291208267212,False
+q_13,Quais são os desafios enfrentados pela EJA no Brasil?,2,doc_09,0.5739144682884216,False
+q_13,Quais são os desafios enfrentados pela EJA no Brasil?,3,doc_23,0.5227960348129272,False
+q_13,Quais são os desafios enfrentados pela EJA no Brasil?,4,doc_22,0.5173079967498779,False
+q_13,Quais são os desafios enfrentados pela EJA no Brasil?,5,doc_21,0.5085350275039673,True
+q_14,Como a EJA contribui para o mercado de trabalho?,1,doc_25,0.5666682720184326,True
+q_14,Como a EJA contribui para o mercado de trabalho?,2,doc_13,0.558172345161438,False
+q_14,Como a EJA contribui para o mercado de trabalho?,3,doc_05,0.517408549785614,False
+q_14,Como a EJA contribui para o mercado de trabalho?,4,doc_26,0.5097463726997375,False
+q_14,Como a EJA contribui para o mercado de trabalho?,5,doc_03,0.5093920230865479,False
+q_15,A EJA oferece formação profissional técnica?,1,doc_29,0.6287096738815308,True
+q_15,A EJA oferece formação profissional técnica?,2,doc_25,0.5592519044876099,True
+q_15,A EJA oferece formação profissional técnica?,3,doc_15,0.5247390270233154,False
+q_15,A EJA oferece formação profissional técnica?,4,doc_30,0.5102972984313965,False
+q_15,A EJA oferece formação profissional técnica?,5,doc_22,0.5070151686668396,False
+q_16,Como a EJA apoia o exercício da cidadania?,1,doc_26,0.5992243885993958,True
+q_16,Como a EJA apoia o exercício da cidadania?,2,doc_03,0.5395671129226685,False
+q_16,Como a EJA apoia o exercício da cidadania?,3,doc_07,0.5189616680145264,False
+q_16,Como a EJA apoia o exercício da cidadania?,4,doc_09,0.49140527844429016,False
+q_16,Como a EJA apoia o exercício da cidadania?,5,doc_25,0.48753368854522705,False
+q_17,Qual a relação entre EJA e saúde pública?,1,doc_27,0.6307797431945801,True
+q_17,Qual a relação entre EJA e saúde pública?,2,doc_19,0.6262814998626709,False
+q_17,Qual a relação entre EJA e saúde pública?,3,doc_25,0.6033104658126831,False
+q_17,Qual a relação entre EJA e saúde pública?,4,doc_07,0.5610189437866211,False
+q_17,Qual a relação entre EJA e saúde pública?,5,doc_22,0.537468671798706,False
+q_18,Como é feita a alfabetização de adultos?,1,doc_28,0.7494626045227051,True
+q_18,Como é feita a alfabetização de adultos?,2,doc_09,0.5672136545181274,False
+q_18,Como é feita a alfabetização de adultos?,3,doc_07,0.5578423738479614,False
+q_18,Como é feita a alfabetização de adultos?,4,doc_16,0.5374623537063599,False
+q_18,Como é feita a alfabetização de adultos?,5,doc_01,0.5131980180740356,False
+q_19,Como é o financiamento da EJA?,1,doc_20,0.583672046661377,True
+q_19,Como é o financiamento da EJA?,2,doc_09,0.5768718719482422,False
+q_19,Como é o financiamento da EJA?,3,doc_25,0.5749905705451965,False
+q_19,Como é o financiamento da EJA?,4,doc_07,0.5488778352737427,False
+q_19,Como é o financiamento da EJA?,5,doc_24,0.5386302471160889,False
+q_20,Quais são as perspectivas futuras para a EJA no Brasil?,1,doc_09,0.6082736849784851,False
+q_20,Quais são as perspectivas futuras para a EJA no Brasil?,2,doc_30,0.5894602537155151,True
+q_20,Quais são as perspectivas futuras para a EJA no Brasil?,3,doc_17,0.5068916082382202,False
+q_20,Quais são as perspectivas futuras para a EJA no Brasil?,4,doc_28,0.49378126859664917,False
+q_20,Quais são as perspectivas futuras para a EJA no Brasil?,5,doc_23,0.4928908348083496,False

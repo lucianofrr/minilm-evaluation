@@ -2,7 +2,6 @@
   "n_pairs": 50,
   "spearman": 0.6252348418338322,
   "pearson": 0.6188884780977199,
-  "triplet_accuracy": 0.8,
   "mean_similarity": 0.5078050494194031,
   "std_similarity": 0.1557971090078354
 }
