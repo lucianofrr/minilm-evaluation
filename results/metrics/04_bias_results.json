@@ -1,0 +1,13 @@
+{
+  "gender_counterfactual": {
+    "n_pairs": 10,
+    "mean_similarity": 0.9648940026760101,
+    "median_similarity": 0.9689198136329651,
+    "std_similarity": 0.024248735084878775,
+    "min_similarity": 0.906679093837738,
+    "max_similarity": 0.990789532661438,
+    "ci_95_low": 0.9489325165748596,
+    "ci_95_high": 0.9786729641258716,
+    "note": "Alta similaridade indica que a troca de gênero tem pouco impacto na representação."
+  }
+}

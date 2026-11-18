@@ -1,0 +1,16 @@
+{
+  "negation": {
+    "n_pairs": 10,
+    "mean_similarity": 0.9735263645648956,
+    "std_similarity": 0.0089977162218268,
+    "high_similarity_pairs": 10,
+    "risk": "ALTO",
+    "interpretation": "Similaridade alta em pares de negação indica que o modelo não distingue bem afirmações de suas negações — risco em RAG."
+  },
+  "orthography": {
+    "n_pairs": 5,
+    "mean_similarity": 1.0000000238418578,
+    "std_similarity": 4.7683715820312496e-08,
+    "risk": "BAIXO"
+  }
+}

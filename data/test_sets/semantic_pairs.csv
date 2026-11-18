@@ -1,0 +1,51 @@
+sentence_a,sentence_b,human_score,category
+"Como funciona a matrícula na EJA?","Como faço minha inscrição na EJA?",5,matrícula
+"O que é a Educação de Jovens e Adultos?","O que significa EJA?",5,conceitos
+"Como solicitar histórico escolar?","Como conseguir meu histórico de estudos?",5,documentação
+"Qual a idade mínima para estudar na EJA?","A partir de que idade posso me matricular na EJA?",5,matrícula
+"A EJA oferece certificado?","Vou receber diploma ao terminar a EJA?",5,documentação
+"Posso estudar à noite pela EJA?","A EJA tem aulas noturnas?",5,funcionamento
+"Como funciona a avaliação na EJA?","Como são as provas na EJA?",5,avaliação
+"Preciso de documentos para me matricular?","Que documentos são exigidos para a matrícula?",5,documentação
+"Posso trancar minha matrícula?","É possível suspender temporariamente meus estudos?",5,matrícula
+"Parei de estudar há anos. Posso voltar?","Faz tempo que não estudo. Consigo voltar a estudar?",5,linguagem informal
+"O aluno pode concluir o ensino médio pela EJA?","É possível terminar o ensino médio estudando pela EJA?",4,conceitos
+"Quais são os módulos da EJA?","Como está organizado o currículo da EJA?",4,funcionamento
+"A EJA é gratuita?","Preciso pagar para estudar na EJA?",4,funcionamento
+"Como funciona a frequência na EJA?","A presença nas aulas é obrigatória na EJA?",4,avaliação
+"Posso trabalhar e estudar pela EJA?","A EJA permite conciliar trabalho e estudo?",4,funcionamento
+"Como obter a declaração de matrícula?","Onde consigo um comprovante de que estou matriculado?",4,documentação
+"A EJA aceita transferência de outra escola?","Posso me transferir de outra escola para a EJA?",4,matrícula
+"Qual o horário das aulas na EJA?","Em que horário funciona a EJA?",4,funcionamento
+"Como é a recuperação de estudos na EJA?","O que acontece se eu ficar reprovado na EJA?",4,avaliação
+"Posso fazer a EJA online?","Existe EJA a distância ou pela internet?",4,funcionamento
+"Como faço para me matricular?","Quais documentos preciso apresentar?",3,matrícula
+"O que é alfabetização?","Posso aprender a ler pela EJA?",3,conceitos
+"A escola oferece reforço escolar?","Como funciona a avaliação?",3,avaliação
+"Quanto tempo dura o curso da EJA?","Qual a grade curricular?",3,funcionamento
+"Preciso de histórico para me matricular?","Perdi meus documentos escolares.",3,documentação
+"Como é o material didático?","A escola fornece livros?",3,funcionamento
+"Posso me matricular em qualquer época do ano?","Quando começa o ano letivo?",3,matrícula
+"O professor acompanha o progresso do aluno?","Como sou avaliado na EJA?",3,avaliação
+"Tenho direito a transporte escolar?","A escola fica longe de casa.",3,funcionamento
+"Como funciona a EJA para quem tem deficiência?","A escola é acessível para todos?",3,funcionamento
+"Qual a idade mínima para EJA?","Quais documentos são necessários para matrícula?",2,matrícula
+"Como funciona o ensino médio regular?","Quero me matricular na EJA.",2,conceitos
+"A escola tem cantina?","Como é a avaliação na EJA?",2,funcionamento
+"Posso fazer estágio durante a EJA?","Qual o horário das aulas?",2,funcionamento
+"O que é ENEM?","Como funciona a matrícula na EJA?",2,conceitos
+"Como obter bolsa de estudos?","A EJA é gratuita?",2,funcionamento
+"O que é ensino técnico?","Posso terminar o ensino médio pela EJA?",2,conceitos
+"Como funciona o conselho tutelar?","Posso me matricular na EJA?",2,outros
+"Qual é o papel do coordenador pedagógico?","Como são as aulas na EJA?",2,funcionamento
+"O que é pronatec?","Como fazer matrícula?",2,conceitos
+"O que é alfabetização?","Como funciona a matrícula escolar?",1,conceitos
+"Qual o time de futebol mais popular?","Como me matriculo na EJA?",1,outros
+"Como preparar uma receita de bolo?","O que é Educação de Jovens e Adultos?",1,outros
+"Qual a capital do Brasil?","Como solicitar meu histórico escolar?",1,outros
+"O que é criptomoeda?","A EJA oferece certificado?",1,outros
+"Como funciona a previdência social?","Posso estudar à noite?",1,outros
+"Qual a temperatura média de Brasília?","Como funciona a avaliação?",1,outros
+"O que é inflação?","Posso trancar minha matrícula?",1,outros
+"Como funciona um motor de combustão?","Parei de estudar há anos.",1,outros
+"O que é DNA?","A EJA é gratuita?",1,outros

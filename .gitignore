@@ -1,0 +1,41 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebooks checkpoints e cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# HuggingFace & PyTorch caches
+.cache/
+hf_cache/
+*.pt
+*.bin
+*.safetensors
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
+scratch/
+tmp/
